@@ -11,3 +11,4 @@ _svn
 svn-commit*.tmp
 .settings
 .settings
+.project
